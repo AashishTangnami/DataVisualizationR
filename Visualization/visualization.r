@@ -1,1 +1,0 @@
-# First lesson of the visualization in R with GGPLOT2
